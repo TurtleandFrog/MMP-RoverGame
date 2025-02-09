@@ -1,0 +1,38 @@
+Brief Notes For W/C 03/02/25
+
+After this week daily notes will be made to better attribute time spent and keep track of tasks.
+
+Monday-
+
+10:30 - 11:00 Met with Helen to explain medical issues and get a general catchup on the project as I missed last week due to said issues. Established what I'm going to be doing with the mmp and ensured I was on the right track in
+terms of project outline and git etc
+
+11:00 - 11:30 MMP Tutorial
+
+14:00 - 15:00 MMP Lecture (Not sure whether to count)
+
+Spent 5 hours during the rest of the day to set up my git, populate the issue board and figuring out how to get a unity project on git.
+This invovled making use of git lfs, so I opted to use unity version control for the actual project backup
+
+Wednesday-
+Spent 4 hours- Formatted document for project outline and wrote the actual contents of the document. This was sent to Helen to review.
+This relied heavily on the document formatting from the SE module, so I spent some of this time further adjusting the git repo to match that.
+
+Thursday-
+15:00 - 16:00 MMP Lecture
+
+Spent 2 hours - Began researching feature driven development. This took two hours due to working on the train, should usually only take one.
+Haven't made notes on this as I feel it just directs the path I follow for my project, but will add the references to the project outline.
+(Does this need notes)?
+Helen also replied on thursday, indicating my project outline was good, so it just needed a final spellcheck and proof read.
+
+Friday/Sat at home and travelling for medical tests so no work done.
+
+Sunday-
+Spent 3 hours -
+Made rough figma designs for main menu, settings menu, pause menu, hexagonal grid system and the game UI.
+This is because I haven't started development due to travel, so the designs will allow me to jump in much quicker instead of having to design mid way.
+Also created a timetracking spreadsheet, to ensure I'm commiting enough time to the project.
+Finally wrote these notes and will be proofreading the project outline ready to submit tonight, and add the FDD references.
+I expect this will take nomore than an hour, but will adjust the time spent accordingly.
+
