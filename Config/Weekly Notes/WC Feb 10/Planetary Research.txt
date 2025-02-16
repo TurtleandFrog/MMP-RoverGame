@@ -1,0 +1,97 @@
+Possible Planetary Bodies-
+
+	Gas giants and Ice giants obviously cant be used,
+	However perhaps we could incorporate some of their features? E.g. diamond precipitation.
+	
+
+	
+	
+# Terrestrial Bodies in Our Solar System
+	Generated with Claude AI
+
+## Inner Planets
+1. **Mercury** - The smallest and innermost planet, with a rocky surface covered in craters
+2. **Venus** - Similar in size to Earth but with a thick, toxic atmosphere
+3. **Earth** - Our home planet, with a diverse surface of oceans, continents, and a life-supporting atmosphere
+4. **Mars** - The "Red Planet" with a thin atmosphere, polar ice caps, and evidence of past water flow
+
+## Moons
+5. **The Moon** (Earth's moon) - Our only natural satellite, with a cratered, airless surface
+6. **Phobos** (Mars) - Irregularly shaped, likely a captured asteroid
+7. **Deimos** (Mars) - Smaller than Phobos, also irregularly shaped
+8. **Io** (Jupiter) - Volcanically active with sulfur-rich surface
+9. **Europa** (Jupiter) - Ice-covered surface with possible subsurface ocean
+10. **Ganymede** (Jupiter) - Largest moon in the solar system, with a differentiated interior
+11. **Callisto** (Jupiter) - Heavily cratered surface
+12. **Titan** (Saturn) - Only moon with a dense atmosphere, has liquid methane lakes
+13. **Enceladus** (Saturn) - Ice-covered with active geysers at its south pole
+14. **Mimas** (Saturn) - Features a large impact crater making it resemble the Death Star
+15. **Tethys** (Saturn) - Icy surface with large canyons and craters
+16. **Dione** (Saturn) - Icy surface with bright streaks and craters
+17. **Rhea** (Saturn) - Second-largest moon of Saturn, heavily cratered
+18. **Iapetus** (Saturn) - Notable for its two-toned surface
+19. **Titania** (Uranus) - Largest moon of Uranus
+20. **Oberon** (Uranus) - Second-largest moon of Uranus
+21. **Ariel** (Uranus) - Brightest moon of Uranus
+22. **Umbriel** (Uranus) - Darkest of Uranus's large moons
+23. **Miranda** (Uranus) - Smallest of Uranus's five major moons
+24. **Triton** (Neptune) - Largest moon of Neptune, with retrograde orbit
+25. **Charon** (Pluto) - Largest moon of Pluto, in a binary system with Pluto
+
+## Dwarf Planets
+26. **Ceres** - Largest object in the asteroid belt
+27. **Pluto** - Former ninth planet, now classified as a dwarf planet
+28. **Eris** - Slightly smaller than Pluto, with one known moon
+29. **Haumea** - Elongated shape due to rapid rotation
+30. **Makemake** - Similar in size to Haumea
+
+## Asteroids and Minor Bodies
+31. **Vesta** - Second-most massive asteroid
+32. **Pallas** - Third-most massive asteroid
+33. **Hygiea** - Fourth-largest asteroid by volume and mass
+34. **Psyche** - Largest M-type (metallic) asteroid
+
+## Trans-Neptunian Objects- Planets that orbit the sun at a greater average distance than Neptune.
+35. **Quaoar** - Classical Kuiper belt object
+36. **Sedna** - One of the most distant known objects in the solar system
+37. **Orcus** - Has similar orbit to Pluto
+
+Research on these bodies is needed to find unique properties to create unique levels.
+
+Essential to include inner planets
+Moons of non terrestrial planets would allow a world map to be better spaced.
+One or two asteroids should also be used for this unique reason.
+A trans-neptunian would be an interesting "curveball" perhaps we invent our own with unique features.
+
+This leaves us with the
+Inner Planets- Mercury, Mars, Venus, Earth (tutorial)?
+Moons- The Moon, Titan, IO
+Dwarf Planets- Pluto,
+Asteroids-
+Trans-Neptunian- (All water based so maybe not)
+
+Reasons Why-
+Inner planets, our Moon and Pluto provide the most familiarity for the player,
+whilst providing some unique mechanics.
+
+Earth- Tutorial Planet, familiarity without difficulty.
+Mercury- Closest to sun, extreme temperature variations. Familiarity.
+Mars- Common rover planet,familiarity. Very arid.
+Venus- Thick toxic atmosphere. Familiarity. (Surface temps melt lead, high surface pressure)
+The Moon- Many craters. Familiarity.
+Titan- Lakes of liquid methane and ethane create an interersting environment.
+IO- Most volcanically active body in the solar system.
+Pluto- Icy surface. Familiarity.
+
+Stretch goals - Asteroids and Trans Neptunian.
+
+Needed orbits
+Mercury
+Venus
+Earth & Moon
+Mars
+Jupiter
+Saturn
+(No neptune no Uranus)
+Pluto-
+
