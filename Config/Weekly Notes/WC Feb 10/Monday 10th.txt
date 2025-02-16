@@ -1,0 +1,8 @@
+Worked for 6 hours total today
+30 min meeting with Helen
+30 min tutorial
+1 hour lecture
+
+Remaining time spent building main menu, settings menu and implementing a hexagonal tilemap. The hex tilemap was a pain to make until I figured out how to edit the individual tile colours instead of editing the sprite before making it a tile.
+
+Research into grid based movement needs to be done next, and implementing altitudes.

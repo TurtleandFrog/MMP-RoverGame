@@ -1,0 +1,46 @@
+Spent 17 Hours this week working Monday Friday Sunday.
+Whilst I think this is okay, definite improvement is needed in further weeks to add all intended features.
+
+Tasks Completed-
+	Developed Main Menu, Settings Menu, Level Select and a Tilemap System with movement.
+	Researched Planets for Potential Levels. Developed a click detection system.
+
+Scripts Developed-
+	DirectMovement
+	HexTile
+	MainMenu
+	OrbitGenerator
+	Rover
+	SceneNames
+	SettingsMenu
+	TileClickDetection
+	TilemapManager
+	
+To Do:
+	Turn Menu Templates into Full Menus With Fully Interactive Buttons.
+		This will involve adding some template audio, sfx and looking into game controls.
+		
+	Add an objective for the game (e.g. navigate to this tile)
+	See about implementing the A* algorithm.
+		This is needed to actually make the game fully playable as hazards, elevations
+		and unique mechanics all rely on this mechanic being as final as possible to
+		be implemented correctly.
+		
+Questions:
+	A* Algorithm
+	https://www.geeksforgeeks.org/a-search-algorithm/
+		An example of the algorithm is available here.
+		Do I need to implement it myself or do I copy and adapt it for unity?
+	
+	Online Tutorial
+	https://catlikecoding.com/unity/tutorials/hex-map/
+		I discovered what I believe to be a full tutorial for my style of game.
+		I'm hesitant to even look at it more indepth as I don't want to reference it
+		if there are multiple similar mechanics. What do I do?
+		
+	IP
+		I spoke about speaking to friends to use their audio and art.
+		This was mainly because I was hoping to publish the game after the project
+		(Probably expanding on it after its submitted) and professional assets would
+		be massively beneficial to any games success. Will IP be an issue with the university?
+		

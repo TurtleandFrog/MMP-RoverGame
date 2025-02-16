@@ -1,0 +1,41 @@
+Create a tilemap with blank tiles of different colours.
+These will be identified via their tile namesuch as "height1"
+which will allow a script to assign height values to tiles
+without generating the tiles itself first.
+
+
+
+Searched shortest path algorithms. a* seems very common for games.
+	To begin with simply 2 or 3 tile movement around a hex map.
+		Incorporate Heights later
+	Used to navigate grids whilst avoiding algorithms
+	Starting Cell(Rover Position) and Target Cell(Mouse Click)
+	
+Determine valid tiles around rover.
+More research to be done here.
+
+
+
+Highlight valid tiles for movement around the rover.
+Detect mouse clicks for these tiles.
+Validate clicked tile is in range.
+Travel to tile.
+
+Move rover
+Or Debug error message.
+
+
+6 Hours Spent-
+
+Developed a system to allow movement on a grid based system using coordinates rather than a shorted path algorithm.
+I researched a shortest path algorithm, realised I need to speak to my supervisor
+as they seem extremely complex, especially to adapt to a unity script.
+
+Whilst doing this it was also necessary for me to develop a click detection script
+as well as a tilemap manager.
+
+Menus were also refined using an enum system to travel between scenes,
+rather than using strings.
+
+More research needs to be done into the A* shortest path algorithm,
+but the direct movement system works as a fix for now (incase i cant get it working).

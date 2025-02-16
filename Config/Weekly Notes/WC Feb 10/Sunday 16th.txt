@@ -1,0 +1,22 @@
+Spent 5 hours.
+
+Did research into terrestrial bodies to find "suitable" planets for rover exploration.
+This is done to provide reasoning behind my level choices which are as follows:
+
+	Earth- Tutorial Planet, familiarity without difficulty.
+	Mercury- Closest to sun, extreme temperature variations. Familiarity.
+	Mars- Common rover planet,familiarity. Very arid.
+	Venus- Thick toxic atmosphere. Familiarity. (Surface temps melt lead, high surface pressure)
+	The Moon- Many craters. Familiarity.
+	Titan- Lakes of liquid methane and ethane create an interersting environment.
+	IO- Most volcanically active body in the solar system.
+	Pluto- Icy surface. Familiarity.
+
+	Stretch goals - Asteroids and Trans Neptunian.
+
+I developed a script for to generation orbits for my level select scene.
+I started by developing these as gameobjects, but using a script to generate them allows
+me to change them much easier later, and also potentially allow my "levels" to move around the orbits.
+
+I also add to redo my settings menu as I accidentally deleted it trying to get comfortable
+with unity version control.
