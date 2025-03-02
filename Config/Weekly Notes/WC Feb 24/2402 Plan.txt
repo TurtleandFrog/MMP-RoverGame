@@ -1,0 +1,36 @@
+24/02
+
+Hex Based Movement.
+Provide a ring around the player to select individual tiles.
+	Once a tile is selected provide a ring around that tile etc etc,
+		The amount this chains depends on the movement amount for that planet.
+		Perhaps also depends on rover upgrades?
+		
+		
+Objectives-
+	Start with simple navigation.
+	Sample retrieval and return.
+	What other missions do rovers go on?
+
+
+Elevation-
+	Implement the 1 to 5 elevation mechanic.
+
+Unique Planet Mechanics-
+	Earth - No mechanics (living organisms?)
+	Mercury - Closest to sun, temperature variation. (Check day/night cycles)
+	Mars - Arid (Dust storms?)
+	Venus - Thick atmosphere (fog of war?)
+	The Moon - Craterous (asteroid impacts?) (High variety of elevation)
+	Titan- Liquid methane (Rivers and Floods for low land)
+	IO -  Most volcanically active (volcano? eruptions? impacts? ash?
+	Pluto - Icy surface, slide mechanics
+
+Pause Menu-
+
+Level Select Screen-
+
+Begin to think of possible rover customisations / purchases
+A shop must have currency, objectives and side missions.
+
+Mid Demo Outline by Next week.
