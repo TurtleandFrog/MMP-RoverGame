@@ -1,0 +1,27 @@
+02/03
+This week-
+Spent 20 Hours
+
+	Figuring out the new movement system
+	Finds rovers neighbours and highlights them using hex tile distances, if they are eligible elevation wise.
+	Clicked tile is checked for a good move, location is added to map ready to press space or for two more moves etc.
+	Once space is pressed rover visits each tile along the path.
+	
+	Due to issues with hexagonal tiles this took a long time to figure out.
+	It came down to using the tiles actual measurements (hex tiles arent 1 by 1, 1 by 0.866 and figuring on the yxz swizzle.
+	So whilst the code is fairly simple, figuring out how it worked without research took a long time.
+	In hindsight I should have just researched.
+	
+	Also implemented some assets for buttons and general space backgrounds. These are just placeholders but should aid with the mid project demo.
+	
+	Been extremely busy this week moving rooms so couldnt commit the 30 hours.
+	
+	
+	Jobs for Next Week-
+		Update the git. Have fallen behind with this past two weeks. Issue board and repo in general needs sorting.
+		
+		Pause menu made but needs a button to implement (pause delta time and set pause panel to visible) very simple but didnt get round to it.
+		
+		Would like to make a more detailed level select screen (revolving planets as buttons for levels), but probably best to get the game more functional and have static buttons for now.
+		
+		Have a shop/ workshop outline.
